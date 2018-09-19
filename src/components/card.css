@@ -1,0 +1,5 @@
+@tailwind utilities;
+
+.paper {
+    @apply .w-2/5 .h-full .rounded .overflow-hidden .shadow-lg .mb-16 .bg-top .pb-6;
+}
