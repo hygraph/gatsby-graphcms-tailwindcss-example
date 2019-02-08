@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby and GraphCMS',
   },
+  pathPrefix: "/gatsby-graphcms-tailwindcss-example",
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-postcss',
